@@ -1,0 +1,21 @@
+Type R:	425
+Type I:	959
+Type J:	58
+Total:	1442
+RegWrite:	705
+Forwards:	321
+Stalls:	116
+Branches:	230
+Jumps:	58
+SM success:	1261
+SM fail:	181
+SM fail rate:	0.12552
+MemRead:	235
+MemWrite:	214
+Cache Hit:	6913
+Cache Miss:	150
+WB Count:	0
+Miss rate:	0.0212374
+WB rate:	0
+Cycles:	16752
+CPI:	11.6172
